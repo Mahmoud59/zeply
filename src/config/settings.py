@@ -57,7 +57,7 @@ INSTALLED_APPS = [
     'corsheaders',
     'users',
     'crypto',
-    # 'transactions'
+    'transactions'
 ]
 
 MIDDLEWARE = [
